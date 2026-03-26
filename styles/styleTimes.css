@@ -1,0 +1,208 @@
+@import url('style.css');
+
+ul {
+  list-style-type: none;
+  margin: 0;             
+  padding: 0;            
+}
+.ferrari{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #ff0c0c;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.f{
+    font-size: 25px;
+    font-weight: bold;
+    color: #ff0c0c;
+}
+img.fer-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.mercedes{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #53ebff;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.m{
+    font-size: 25px;
+    font-weight: bold;
+    color: #53ebff;
+}
+img.merc-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.mclaren{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #ff8912;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.mc{
+    font-size: 25px;
+    font-weight: bold;
+    color: #ff8912;
+}
+img.mcl-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.haas{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.h{
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+}
+img.haas-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.redbull{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #002ac1;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.r{
+    font-size: 25px;
+    font-weight: bold;
+    color: #002ac1;
+}
+img.red-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.racingbulls{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #2897ff;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.rb{
+    font-size: 25px;
+    font-weight: bold;
+    color: #2897ff;
+}
+img.rac-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.alpine{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #e94491;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.a{
+    font-size: 25px;
+    font-weight: bold;
+    color: #e94491;
+}
+img.alp-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.audi{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #c10000;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.au{
+    font-size: 25px;
+    font-weight: bold;
+    color: #c10000;
+}
+img.aud-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.williams{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #250e7e;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.w{
+    font-size: 25px;
+    font-weight: bold;
+    color: #250e7e;
+}
+img.wil-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.cadillac{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #8e8c8c;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.c{
+    font-size: 25px;
+    font-weight: bold;
+    color: #8e8c8c;
+}
+img.cad-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.aston{
+    font-family: 'Shine More', sans-serif;
+    font-size: 30px;
+    color: #21432d;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.as{
+    font-size: 25px;
+    font-weight: bold;
+    color: #21432d;
+}
+img.ast-foto{
+    padding-top: 25px;
+    width: 800px;
+}
+.sub{
+    font-size: 21px;
+}

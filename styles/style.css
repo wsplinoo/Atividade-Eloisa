@@ -1,0 +1,149 @@
+@import url('https://fonts.cdnfonts.com/css/shine-more');
+@import url("https://fonts.cdnfonts.com/css/open-sauce-one");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #121312;
+    color: #bd8f22;
+    font-family: 'Open Sauce One', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+.cabecalho{
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+    url("/img/redbullcars.gif");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  text-align: center;
+  padding: 200px 0 0;
+}
+h1{
+    font-family: 'Shine More', sans-serif;
+    font-size: 70px;
+}
+.titulo-reset{
+    cursor: pointer;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Shine More', sans-serif;
+    font-size: 70px;
+}
+p{
+    font-size: 20px;
+    color: #ffffff;
+    padding-bottom: 30px;
+}
+.cabecalho-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    background-color: #bd8f22;
+    padding: 20px;
+}
+.menu{
+    margin: auto;
+}
+.menu a{
+    padding: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+.menu a:hover{
+    background-color: #bd2222;
+    color: #bd8f22;
+    padding: 5px;
+    transition: 350ms;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.secao{
+    display: flex;
+    flex-direction: column;
+}
+.titulo-1{
+    color: #bd8f22;
+}
+.titulo-2{
+    color: #bd8f22;
+    padding-top: 25px;
+    padding-bottom: 0;
+}
+.cor{
+    color: #bd2222;
+}
+.container-secoes{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.tabela{
+    color: #bd8f22;
+    padding-bottom: 7px;
+    font-family: 'Shine More', sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+thead{
+    background-color:#bd2222;
+    color: #ffffff;
+    font-weight: 900;
+}
+.titulo-t{
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+td{
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    font-weight: 700;
+}
+tfoot td{
+    background-color: #bd2222;
+    color: #ffffff;
+    font-weight: 900;
+}
+.subtitulo{
+    color: #bd8f22;
+    padding-top: 30px;
+    padding-bottom: 7px;
+    font-family: 'Shine More', sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+.rodape{
+    color: #ffffff;
+    background-color: #bd8f22;
+    font-weight: bolder;
+    text-align: center;
+    padding: 30px;
+}
+.rodape-p{
+    padding: 0;
+}
+.link-rodape{
+    text-decoration: none;
+    color: #bd2222;
+    font-weight: bold;
+}
+.link-rodape:hover{
+    background-color: #bd2222;
+    color: #bd8f22;
+    padding: 1px;
+    transition: 350ms;
+}
