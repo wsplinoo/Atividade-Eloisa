@@ -15,7 +15,7 @@ body{
 }
 .cabecalho{
   background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-    url("/img/redbullcars.gif");
+    url("../img/redbullcars.gif");
   background-size: cover;
   background-position: center;
   color: #ffffff;
